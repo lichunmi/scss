@@ -13,8 +13,8 @@ VSCODE sass 플러그인
     (~ 기준으로)  
 - 파일경로  
    설정 -> live sass compile 검색 -> settings: force base directory -> "format": "compressed" or "expand" (ctrl + space)  
-  
-  # !global  
+
+# !global  
   지역변수 -> 전역변수
 
 
